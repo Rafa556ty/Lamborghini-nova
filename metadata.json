@@ -1,0 +1,8 @@
+{
+  "name": "Revuelto Rodovia — Jogo de Corrida",
+  "description": "Pilote uma Lamborghini Revuelto preta pela rodovia. Acelere, freie e desvie do trânsito.",
+  "requestPermissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
